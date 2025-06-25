@@ -101,6 +101,10 @@ adminis-security-platform/
 └── LICENSE                         # الترخيص
 ________________________________________________________-
 
-https://github.com/user-attachments/assets/62c305fc-bf5b-4d3f-b9cc-5a6819106c2d
+
+
+
+
+https://github.com/user-attachments/assets/105b5813-3d5c-4bb2-8f6b-de927218ede6
 
 
